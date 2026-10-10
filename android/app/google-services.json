@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662622421241",
+    "project_id": "serenitalk-system",
+    "storage_bucket": "serenitalk-system.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662622421241:android:48167421376f03de1b2228",
+        "android_client_info": {
+          "package_name": "com.example.serenitalk_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnnez_Ly8YdntNU-K0qIjVHxfjFvQmxB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

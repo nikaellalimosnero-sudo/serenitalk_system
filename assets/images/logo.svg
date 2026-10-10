@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100" role="img" aria-label="SereniTalk logo">
+  <path d="M60 92C22 64 7 45 7 29C7 15 18 7 31 7C43 7 54 14 60 25C66 14 77 7 89 7C102 7 113 15 113 29C113 45 98 64 60 92Z"
+        fill="none" stroke="#2b86b6" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M55 19C42 19 31 29 31 43C31 52 34 58 38 63L40 80L55 80L53 68C59 66 63 63 64 59L62 56L65 54L62 51L65 47L61 44C64 40 64 36 62 31C60 25 58 21 55 19Z"
+        fill="#2b86b6"/>
+  <path d="M84 17C101 22 104 41 89 54C73 51 69 32 84 17Z" fill="#4caf50"/>
+  <path d="M85 25C84 36 86 44 89 52" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+</svg>
